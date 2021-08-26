@@ -1,0 +1,16 @@
+com\codecool\dungeoncrawl\logic\actors\monsters\Devil.class
+com\codecool\dungeoncrawl\logic\actors\items\Crown.class
+com\codecool\dungeoncrawl\logic\actors\environment\Tree.class
+com\codecool\dungeoncrawl\logic\actors\items\Potion.class
+com\codecool\dungeoncrawl\logic\actors\monsters\SpriteBlue.class
+com\codecool\dungeoncrawl\logic\actors\monsters\Snake.class
+com\codecool\dungeoncrawl\logic\actors\monsters\Sprite.class
+com\codecool\dungeoncrawl\logic\actors\environment\Water.class
+com\codecool\dungeoncrawl\logic\actors\environment\House.class
+com\codecool\dungeoncrawl\logic\actors\environment\WideRiver.class
+com\codecool\dungeoncrawl\logic\actors\environment\Bonfire.class
+com\codecool\dungeoncrawl\logic\actors\monsters\Apple.class
+com\codecool\dungeoncrawl\logic\actors\environment\River.class
+com\codecool\dungeoncrawl\logic\actors\monsters\Ghost.class
+com\codecool\dungeoncrawl\logic\actors\environment\Pavement.class
+com\codecool\dungeoncrawl\logic\actors\environment\Stump.class
