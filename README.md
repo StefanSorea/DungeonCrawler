@@ -148,7 +148,7 @@ Project Link: [https://github.com/sunStephan/DungeonCrawler](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-Special thanks to Ștefania Rotaru and Adam Altar for contributing to the development of this project.
+Special thanks to Ștefania Rotaru for contributing to the development of this project.
 
 
 
